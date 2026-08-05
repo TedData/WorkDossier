@@ -29,7 +29,7 @@ Can you please heat up the lunchbox for me.  heat up - 加热   microwave - 微�
 Give me a break.  饶了我吧
 more good advice  再来点好建议吧
 The only thing a man can control is his own actions.
-Sleepy head, you're just in time.  sleepy head - 懒虫
+Sleepy head, you're just in time.  懒虫，你来得正是时候。   sleepy head - 懒虫
 He says one thing, and then he goes and does another.  他总是说一套做一套。
 I am counting to three.  劳资蜀道山
 That doesn't seem fair.  这貌似不公平。
@@ -179,7 +179,7 @@ We can sit down and have some coffee for a chat.  我们可以坐下来喝杯咖
 I believe the most important principle   is to do the right thing for our customers and stakeholders.  我认为最重要的原则   是为我们的客户和利益相关者做正确的事情。
 I am very open-minded and am willing to accept the idea if that’s the right thing to do.  我非常开放思维，如果那是正确的事情，我愿意接受这个想法。
 Also, I am very excited to share my ideas   about discussing with others to find the best solution,   because, you know, people are reasonable.  另外，我非常兴奋地分享我的想法，   与他人讨论以找到最佳解决方案，   因为你知道，人们是讲道理的。
-Honestly, I think everyone is under pressure more or less,   so it is about how to adapt to an efficient routine to help you to reduce the amount of pressure.  老实说，我认为每个人或多或少都承受着压力，   所以关键在于如何适应一种高效的日常安排来帮助你减少压力。
+Honestly, I think everyone is under pressure more or less,   so it is about how to adapt to an efficient routine   to help you to reduce the amount of pressure.  老实说，我认为每个人或多或少都承受着压力，   所以关键在于如何适应一种高效的日常安排   来帮助你减少压力。
 So I will work on the most urgent or important tasks   which require more focused time to complete it.  所以我会处理最紧急或最重要的任务，   这些任务需要更集中的时间来完成。
 So first thing in my day, I will go through my inbox   and take a look at the calendar to see what my day looks like.  所以在我一天的开始，我会查看我的收件箱并查看日历，了解我的一天的安排。
 If my calendar is pretty open, then I will try to prioritise work   that requires a chuck of focused time, like writing code.  如果我的日历比较空闲，那么我会尽量优先处理   需要大段集中时间的工作，比如编写代码。
@@ -194,9 +194,7 @@ For the first year of my program with your company,   I plan to learn knowledge 
 During the second year,   I see myself being able to work very independently   and becoming a competent staff member who collaborates effectively   with other team members to successfully manage projects.  在第二年，   我认为自己能够非常独立地工作，   成为一名与其他团队成员有效合作   并成功管理项目的称职员工。
 In five years, I would like to be an industry expert within your company   that others can come to for ideas and help.  在五年内，我希望能成为贵公司内的行业专家，   成为他人寻求创意和帮助的对象。   industry - 行业   expert - 专家
 I would like to keep myself up to date with new technologies   and best practices in the data industry   to ensure I can deliver the best results in my current and future roles.  我希望能跟上数据行业的新技术   和最佳实践，   以确保我能在当前和未来的角色中交付最佳结果。   up to date - 最新
-Once we were doing a project,   and we realised three days before the deadline   that two of our teams were using incompatible software tools.  有一次，我们在做一个项目时，   发现距离截止日期还有三天时，   我们的两个团队在使用不兼容的软件工具。
 As part of the team members,   I remained calm and tried to find a way   to deal with this without causing any delays.  作为团队成员的一部分，   我保持冷静并努力找到一种处理方法，   以避免造成任何延误。   calm - 镇静
-I talked to other team members, and we made a plan,   two of the teams would use compatible software tools,   while the others would be responsible   for converting their work into a different format using these tools.  我与其他团队成员交流后，我们制定了一个计划,   两个团队使用兼容的软件工具，   而其他团队负责使用这些工具   将他们的工作转换为不同的格式。
 It was very close but we managed to get everything done on time.  虽然时间非常紧迫，但我们还是按时完成了所有工作。
 If assigned a task without enough information,   I would promptly seek help from my supervisor or colleagues,   presenting the problem and seeking a clear solution   while gathering any necessary information.  如果分配了一个缺乏足够信息的任务，   我会立即寻求主管或同事的帮助。   我会提出问题，寻求清晰的解决方案，   并收集任何必要的信息。
 I would adhere to company policies and procedures   while completing the task within the time limit.  我会在规定的时间内   遵守公司的政策和流程完成任务。   adhere - 坚持，遵守
@@ -206,14 +204,13 @@ Lastly, I would conduct independent research, experiment,   and study relevant l
 When it comes to learning a new technology,   it's important to start with a thorough understanding of its fundamental concepts and principles,   including its purpose, advantages, disadvantages, and workings.  学习新技术时，   重要的是从彻底理解其基本概念和原理开始，   包括其目的、优势、劣势和工作原理。   thorough - 全面   fundamental - 基本
 By following these steps,   I can quickly and effectively learn new technologies,   better prepare for stakeholder projects,   and finally deliver high-quality outcomes.  通过遵循这些步骤，   我可以快速有效地学习新技术，   更好地为利益相关者的项目做准备，   并最终交付高质量的成果。
 I’ve learned to manage my workload effectively to meet my deadlines.  我已经学会有效地管理我的工作量，以满足我的截止日期。
-For example, during my last semester, I had 3 projects and 1 final exam.  例如，在我上个学期，我有三个项目和一场期末考试。
 I prioritise my tasks and create a plan of action to complete them on time.  我会优先安排我的任务并制定行动计划，以便按时完成它们。
 First I evaluate the workload and determine the deadlines,   complexity and urgency of each project,   I identify which project requires my immediate attention   and which ones can be postponed.  首先，我评估工作量并确定每个项目的截止日期，   复杂度和紧急程度。   我识别出哪个项目需要我立即关注，   哪些可以推迟。   complexity - 复杂性   postponed - 推迟
 Based on the evaluation, I create a to-do list,   ensuring that I complete the most critical task first.  根据评估，我创建一个待办事项列表，   确保我先完成最关键的任务。
 Then is time management,   I plan my time effectively by setting specific time blocks for each task   and ensuring that I take regular breaks to avoid burnout.  接下来是时间管理方面，   我通过为每个任务设定具体的时间段来有效规划我的时间，   并确保我定期休息，以避免过度劳累。   effectively - 有效   burnout - 倦怠
 I also set aside some buffer time for emergencies that may arise.  我还为可能出现的紧急情况留出了一些缓冲时间。   buffer - 缓冲区   arise - 出现，发生
 At the same time, I keep my team members informed about my progress   and ask for help if necessary.  同时，我会让团队成员了解我的进展，   并在必要时寻求帮助。
-By following these steps, I eventually completed my three projects and final exams achieving a satisfactory score.  通过遵循这些步骤，我最终完成了我的三个项目和期末考试，并取得了令人满意的成绩。
+By following these steps,   I eventually completed my three projects and final exams   achieving a satisfactory score.  通过遵循这些步骤，   我最终完成了我的三个项目和期末考试，   并取得了令人满意的成绩。
 From my point of view, handling change in the workplace requires flexibility, adaptability and a willingness to learn and grow.  在我看来，处理工作场所的变化需要灵活性、适应性和愿意学习和成长。
 I recognise that change can be difficulty for many people,   so I remain calm the focus on understanding the reason for the change   and the potential benefits it may bring.  我意识到变化对许多人来说可能很困难，   因此我保持冷静，专注于理解变化的原因   以及可能带来的潜在好处。
 During my spare time, I like to go to a beach on the weekend   because this is a good time for me to empty my brain,   take myself out from work pressure and enjoy the time with my family.  在我空闲的时候，我喜欢在周末去海滩，   因为这是我清空大脑，   摆脱工作压力并享受与家人共度时光的好时机。
@@ -221,30 +218,27 @@ Apart from that, I like watching coding tutorials.  除此之外，我喜欢看�
 For example, I learnt Python and write some low-level computer games in Python.  例如，我学习Python，并用Python编写了一些低级别的电脑游戏。
 Learning new skills and putting them into application made me feel satisfied.  学习新技能并将其应用使我感到满足。
 I used to work in the login department and get exposed to a large volume of data login duties.  我曾在登录部门工作，并接触到大量的登录数据工作。
-Form then on, I started to be passionate about the data industry, which lead me to study data science.  从那时起，我开始对数据行业充满热情，这促使我学习数据科学。
-I found that data analysis is very important because it helps discover useful insights and we can use the insights to make a decision.  我发现数据分析非常重要，因为它帮助发现有用的见解，我们可以利用这些见解来做出决策。
-I wish I could use what I’ve learnt to help a company drive commercial actions and help this company to stand out from the competition.  我希望能够运用我所学的知识帮助一家公司推动商业行动，并帮助这家公司在竞争中脱颖而出。
-Our project involved using SQL language to efficiently manage the information of various vehicles in the system.  我们的项目涉及使用SQL语言来高效管理系统中各种车辆的信息。
-We implemented a number of features, including the ability to add, delete, and check vehicles as needed.  我们实现了多项功能，包括根据需要添加、删除和检查车辆。
-To take this a step further, we developed a user-friendly web page that seamlessly connects to a MySQL database using PHP language.  为了更进一步，我们开发了一个用户友好的网页，利用PHP语言无缝连接到MySQL数据库。
-This allowed us to quickly and easily modify vehicle information directly from the web page interface.  这使我们能够通过网页界面直接快速、轻松地修改车辆信息。
-By utilizing SQL and PHP, we were able to streamline the management of vehicle data and improve the efficiency of the system.  通过利用SQL和PHP，我们能够简化车辆数据的管理，并提高系统的效率。
-Also, the web page made it much easier for multiple users to access and make changes to the database, further improving the usability of the system.  此外，这个网页使得多用户更容易访问并对数据库进行更改，进一步提高了系统的可用性。
-The project focused on analyzing sponsored political posts on Facebook targeted at US users, which involved a significant amount of data cleaning and organization.  该项目专注于分析针对美国用户的赞助政治帖子在Facebook上的情况，涉及大量的数据清洗和整理工作。
-Spark was used to effectively clean and extract high-quality data from the dataset.  Spark被用来有效地从数据集中清洗和提取高质量的数据。
-Then used Tableau to visualize the data, including images and charts, to gain a better understanding of the trends and patterns within the dataset.  然后使用Tableau来可视化数据，包括图像和图表，以更好地了解数据集中的趋势和模式。
-By analyzing the data, they were able to draw insightful conclusions that informed the mentor's research on political advertising on social media.  通过分析数据，他们能够得出有见地的结论，为导师在社交媒体政治广告研究方面提供了信息。
+Form then on, I started to be passionate about the data industry,   which lead me to study data science.  从那时起，我开始对数据行业充满热情，   这促使我学习数据科学。
+I found that data analysis is very important   because it helps discover useful insights   and we can use the insights to make a decision.  我发现数据分析非常重要，   因为它帮助发现有用的见解，   我们可以利用这些见解来做出决策。
+I wish I could use what I’ve learnt   to help a company drive commercial actions   and help this company to stand out from the competition.  我希望能够运用我所学的知识   帮助一家公司推动商业行动，   并帮助这家公司在竞争中脱颖而出。
+Our project involved using SQL language to   efficiently manage the information of various vehicles in the system.  我们的项目涉及使用SQL语言   来高效管理系统中各种车辆的信息。
+We implemented a number of features,   including the ability to add, delete, and check vehicles as needed.  我们实现了多项功能，   包括根据需要添加、删除和检查车辆。
+To take this a step further,   we developed a user-friendly web page   that seamlessly connects to a MySQL database   using PHP language.  为了更进一步，我们开发了一个用户友好的网页，利用PHP语言无缝连接到MySQL数据库。   
+This allowed us to quickly and easily modify vehicle information   directly from the web page interface.  这使我们能够通过网页界面直接快速、轻松地修改车辆信息。
+By utilizing SQL and PHP,   we were able to streamline the management of vehicle data   and improve the efficiency of the system.  通过利用SQL和PHP，   我们能够简化车辆数据的管理，   并提高系统的效率。
+Also, the web page made it much easier for multiple users to access   and make changes to the database,   further improving the usability of the system.  此外，这个网页使得多用户更容易访问   并对数据库进行更改，   进一步提高了系统的可用性。
+The project focused on analyzing sponsored political posts   on Facebook targeted at US users,   which involved a significant amount of data cleaning and organization.  该项目专注于分析针对美国用户的赞助政治帖子   在Facebook上的情况，   涉及大量的数据清洗和整理工作。
+Spark was used to effectively clean   and extract high-quality data from the dataset.  Spark被用来有效地从数据集中清洗   和提取高质量的数据。
+Then used Tableau to visualize the data,   including images and charts,   to gain a better understanding of the trends and patterns within the dataset.  然后使用Tableau来可视化数据，   包括图像和图表，   以更好地了解数据集中的趋势和模式。
+By analyzing the data, they were able to draw insightful conclusions 
+that informed the mentor's research on political advertising on social media.  通过分析数据，他们能够得出有见地的结论，
+为导师在社交媒体政治广告研究方面提供了信息。
 The use of both Spark and Tableau allowed for efficient data processing and presentation, which eventually contributed to the success of the project.  同时使用Spark和Tableau实现了高效的数据处理和展示，最终为项目的成功做出了贡献。
 My project aims to restore mosaics on human faces.  我的项目旨在修复人脸上的马赛克。
 Initially, I train the model using a large dataset of face images.  起初，我使用大量的人脸图像数据集训练模型。
 Then, I break down each face into individual pixel points, and utilize the Recurrent Neural Network (RNN) algorithm to implement image restoration.  然后，我将每张脸分解成单独的像素点，并利用递归神经网络（RNN）算法实现图像修复。
 The RNN algorithm generates the next pixel point by using the previous pixel point as input, and this process repeats until the entire image is restored.  递归神经网络（RNN）算法通过使用前一个像素点作为输入来生成下一个像素点，并且这个过程重复，直到整张图像被恢复完成。
 By using RNN, my project can effectively restore the mosaic of an image in a precise and accurate manner.  通过使用RNN，我的项目能够以精确和准确的方式有效地恢复图像的马赛克。
-
-
-
-
-
 After 400 children, some as young as 10, have gate crashed (未被邀请或未经许可就闯入) a party in Logan that disintegrated into violence (局面逐渐走向 演变为暴力或混乱的状态).
 Police were forced to protect paramedics, trying to treat the injured and a 12-year-old girl was rushed to the hospital.
 Several people here got sexually assaulted outside and inside.
@@ -332,3 +326,7 @@ I'm sorry I lost my temper.  很抱歉，我乱发脾气。
 Life is full of little disappointments.  人生总是不尽如意。
 You're not even listening!  你根本就没在听！
 He's not going to shut up till he gets what he wants.  他在得到他想要的东西之前是不会闭嘴的。
+There will be serious consequences.  这会带来严重后果。
+I mainly work on data analysis, Power BI report development, and process automation. In my daily work, I use SQL and Python for data cleaning and analysis, then build visual reports in Power BI to help managers understand business performance and support decision-making. I also use Power Automate and SharePoint to improve business processes, reduce repeated manual work, and increase work efficiency.   我平时主要负责数据分析、Power BI报表开发和流程自动化。日常会使用 SQL 和 Python 进行数据清洗和分析，再通过 Power BI 搭建可视化报表，帮助管理层了解业务情况并支持决策。同时，我也会使用 Power Automate 和 SharePoint 优化业务流程，减少重复性手工操作，提高工作效率。
+One project I did well was improving the AIC Dashboard for Seqwater. I was mainly responsible for using SQL and Power BI to manage project budget, cost, and schedule data. I fixed data issues in the reports, such as duplicated values and KPI display errors. By improving the data model and DAX measures, I increased the report accuracy and refresh efficiency.   我做得比较好的一个项目是优化 Seqwater 的 AIC Dashboard。我主要负责用 SQL 和 Power BI 处理项目预算、成本和进度数据，修复报表中的数据异常，比如数据翻倍和 KPI 显示错误。通过优化数据模型和 DAX，提升了报表的准确性和刷新效率
+The biggest difficulty in this project was that data from different sources was not consistent, so the numbers in the Power BI report did not match the PDF report. For example, there were issues like duplicated budget values and wrong KPI results.   I solved this by checking the data source step by step with SQL, confirming the calculation logic, and discussing KPI definitions with the business team. After that, I adjusted the DAX measures and data model to make sure the report results were correct and consistent.   在这个项目中，最大的困难是不同数据源之间的数据不一致，导致 Power BI 报表里的数字和 PDF 报告对不上。比如预算翻倍、KPI 显示错误这些问题。   我主要通过 SQL 一层一层排查数据来源，确认计算逻辑，再和业务团队沟通指标定义，最后调整 DAX 和数据模型，确保报表结果准确一致。
